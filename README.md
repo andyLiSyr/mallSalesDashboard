@@ -1,2 +1,1 @@
-# mallSalesDashboard
-Mall Sales Excel Dashboard
+# Mall Sales Excel Dashboard
