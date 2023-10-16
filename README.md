@@ -1,5 +1,7 @@
 # Mall Sales Excel Dashboard
 
+![Sales Dashboard Image](readmeImage.png)
+
 I wanted to create a sales dashboard in Excel for fun. I went on Kaggle and found a CSV dataset on sales data on a series of malls in Istanbul, Turkey.
 
 Link to Original Dataset: [Click Here](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
